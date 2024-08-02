@@ -1,0 +1,33 @@
+# Environment folders
+env/
+venv/
+.env/
+.venv/
+
+# Environment files
+.env
+.flaskenv
+
+# Cache
+**/__pycache__/**
+**/.pytest_cache/**
+**/*.pyc
+**/.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Database files
+**/*.db
+**/*.sqlite
+**/*.sqlite3
+
+# html files
+*.html
+
+# csv files
+*.csv
+
+# excel files
+output.xlsx
